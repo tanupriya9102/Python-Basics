@@ -1,0 +1,13 @@
+=>Assert->to specify a condition (recursion->exceptions)
+
+=>labmda function->ambda function can take any number of arguments, but can only have one expression.
+
+=>yeild->instead of return:
+The yield statement suspends function’s execution and sends a value back to the caller, but retains enough state to enable function to resume where it is left off. When resumed, the function continues execution immediately after the last yield run. This allows its code to produce a series of values over time, rather than computing them at once and sending them back like a list.
+
+Return executed once=>yield produces series
+
+=>enumerate->instead of loops
+Often, when dealing with iterators, we also get need to keep a count of iterations. Python eases the programmers’ task by providing a built-in function enumerate() for this task. Enumerate() method adds a counter to an iterable and returns it in a form of enumerating object. This enumerated object can then be used directly for loops or converted into a list of tuples using the list() method.
+
+
